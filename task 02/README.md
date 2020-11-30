@@ -1,4 +1,4 @@
-***Registering my nick at IRC Freenode:*** 
+# ***Registering my nick at IRC Freenode:*** 
 
 I had created my nickname, 'alienwhiz' on freenode.
 
