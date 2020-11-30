@@ -2,8 +2,8 @@
 ## Why must we choose you?
 
 I had been introduced to coding recently and it has been in my head ever since.
-If I don't know, I learn and move ahead. That's my policy. I would like to make my mark in the field of app developement
-And since amfoss already ahs a skillful set of members, I would like to learn from the best and share my experience with the uprising enthusiasists.
+If I don't know, I learn and move ahead. That's my policy. I would like to make my mark in the field of app developement.
+And since amfoss already has a skillful set of members, I would like to learn from the best and share my experience with the uprising enthusiasists.
 
 ## What is your plan for the next 6 months?
 
