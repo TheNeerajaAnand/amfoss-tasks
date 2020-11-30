@@ -2,7 +2,7 @@
 ### Hi! R Neeraja Anand of CSE'20-24  here.
 Task | Description |
 | --- | --- |
-| <a href="https://github.com/TheNeerajaAnand/amfoss-tasks/tree/master/task-00">task 00</a> | Installing Ubuntu |
+| <a href="https://github.com/TheNeerajaAnand/amfoss-tasks/tree/master/task-00">task 0</a> | Installing Ubuntu |
 | <a href="https://github.com/TheNeerajaAnand/amfoss-tasks/tree/master/task-01">task 01</a> | Starring all repos of amfoss |
 | <a href="https://github.com/TheNeerajaAnand/amfoss-tasks/tree/master/task-02">task 02</a> | IRC Freenode |
 | <a href="https://github.com/TheNeerajaAnand/amfoss-tasks/tree/master/task-03">task 03</a> |Hackerrank(pending)|
