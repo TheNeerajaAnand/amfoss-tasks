@@ -1,4 +1,4 @@
-***HACKERRANK***
+# ***HACKERRANK***
 
 I had tried attempting the qns in Hackerrank, but it was a bit tough for me.
 
