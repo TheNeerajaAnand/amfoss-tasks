@@ -1,8 +1,8 @@
-***Starring All amFOSS repositories:***
+#Starring All amFOSS repositories:
 
 For this task, the aim was to star all the amFOSS repositories via Java console rather than the manual work.
 
-Procedure: 
+##Procedure: 
 
 * Accessed the site, https://github.com/amfoss/star-me * Went to the reference site provided.
 
